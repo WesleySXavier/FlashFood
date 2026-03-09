@@ -63,3 +63,7 @@ O foco é testar a velocidade percebida através de dois fluxos:
 ## 4. Referências Bibliográficas
 - KAHNEMAN, Daniel. *Rápido e Devagar: Duas Formas de Pensar*. Rio de Janeiro: Objetiva, 2012.
 - PROJECT MANAGEMENT INSTITUTE (PMI). *Um Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK)*. 7. ed. Newton Square: PMI, 2021.
+- 
+- ## 🎥 Video Demostração
+
+[Assista ao vídeo](https://youtu.be/1jMzlmOcdY0)
